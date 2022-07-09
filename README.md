@@ -7,3 +7,6 @@
 - 💬 Ask me about ... Flutter
 - 📫 How to reach me: ... [Linktree](https://linktr.ee/malik_huzafah)
 - ⚡ Fun fact: ... Hello!
+
+## Github Statistics
+[](https://github-readme-stats.vercel.app/api?username=malikhuzafah&show_icons=true&theme=gotham)
