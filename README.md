@@ -53,8 +53,9 @@
 
 
 <div align="center">
-<a href="https://github.com/malikhuzafah">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malikhuzafah&theme=gotham)](https://git.io/streak-stats)
+<a href="https://github.com/malikhuzafah">
+  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=malikhuzafah&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikhuzafah&layout=compact&theme=gotham&langs_count=8"/>
 </a>
