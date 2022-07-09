@@ -6,6 +6,7 @@
 <a href="https://www.instagram.com/malik_huzafah/"><img src="https://img.shields.io/badge/-@malik_huzafah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/malik.huzafah/"><img src="https://img.shields.io/badge/-@malik.huzafah-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=malikhuzafah&style=flat-square&color=blue" alt=""/>
 </div>
 
 
