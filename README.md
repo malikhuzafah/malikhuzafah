@@ -23,11 +23,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Codewars and read tech articles.
 
 - :mailbox:How to reach me: [![Email](https://img.shields.io/badge/-huzafahrajput10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)]("mailto:huzafahrajput10@gmail.com")
 
@@ -54,7 +52,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## Github Statistics
 
-<!-- [![GitHub Streak]()](https://git.io/streak-stats) -->
 <div align="center">
   
 <a href="https://github.com/malikhuzafah">
