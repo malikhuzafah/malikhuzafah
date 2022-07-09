@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://giphy.com/embed/QTfX9Ejfra3ZmNxh6B" width="480" height="348"></img>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B" width="480" height="348"></img>
   <div id="badges">
     <a href="https://www.linkedin.com/in/malik-huzafah-khan-568b181b5/">
       <img src="https://img.shields.io/badge/Malik%20Huzafah-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
