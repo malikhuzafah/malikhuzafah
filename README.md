@@ -4,15 +4,6 @@
     <a href="https://www.linkedin.com/in/malik-huzafah-khan-568b181b5/">
       <img src="https://img.shields.io/badge/Malik%20Huzafah-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:huzafahrajput10@gmail.com">
-      <img src="https://img.shields.io/badge/-huzafahrajput10@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/malik_huzafah/">
-      <img src="https://img.shields.io/badge/-@malik_huzafah-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-    </a>
-    <a href="https://www.facebook.com/malik.huzafah/">
-      <img src="https://img.shields.io/badge/-@malik.huzafah-1877F2?style=flat&logo=Facebook&logoColor=white"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=malikhuzafah&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -38,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Email](https://img.shields.io/badge/-huzafahrajput10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)]("mailto:huzafahrajput10@gmail.com")
 
 ## :hammer_and_wrench: Languages and Tools :
 
