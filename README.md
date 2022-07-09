@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on ... AI
 - 🤔 I’m looking for help with ... ML
 - 💬 Ask me about ... Flutter
-- 📫 How to reach me: ... [Linktree] (https://linktr.ee/malik_huzafah)
+- 📫 How to reach me: ... [Linktree](https://linktr.ee/malik_huzafah)
 - ⚡ Fun fact: ... Hello!
