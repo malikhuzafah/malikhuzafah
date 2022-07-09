@@ -1,12 +1,6 @@
-### Hi here is what im working on
-
-- 🔭 I’m currently working on ... Mern
-- 🌱 I’m currently learning ... Ml
-- 👯 I’m looking to collaborate on ... AI
-- 🤔 I’m looking for help with ... ML
-- 💬 Ask me about ... Flutter
-- 📫 How to reach me: ... [Linktree](https://linktr.ee/malik_huzafah)
-- ⚡ Fun fact: ... Hello!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## Github Statistics
 <p align="center">
