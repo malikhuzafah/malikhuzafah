@@ -51,7 +51,7 @@
 
 ## Github Statistics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malikhuzafah&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=malikhuzafah&theme=gotham)](https://git.io/streak-stats)
 <p align="center">
 <a href="https://github.com/malikhuzafah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=malikhuzafah&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
