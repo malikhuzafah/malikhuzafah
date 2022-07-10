@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox:How to reach me: [![Email](https://img.shields.io/badge/-huzafahrajput10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)]("mailto:huzafahrajput10@gmail.com")
+- :mailbox:How to reach me: <a href="mailto:huzafahrajput10@gmail.com"><img src="https://img.shields.io/badge/-huzafahrajput10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
 
 ## 🛠️ Languages and Tools :
 
