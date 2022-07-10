@@ -20,7 +20,7 @@
 
 <!-- --- -->
 
-## :man_technologist: About Me :
+## 👨‍💻: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Email](https://img.shields.io/badge/-huzafahrajput10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)]("mailto:huzafahrajput10@gmail.com")
 
-## :hammer_and_wrench: Languages and Tools :
+## 🛠️: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -54,7 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 
-## Github Statistics
+## 🖥️: Github Statistics
 
 <div align="center">
   
@@ -65,7 +65,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </a>
 </div>
 
-## Contact
+## 📞 Contact
 
 <div align="center">
   <a href="https://www.linkedin.com/in/malik-huzafah-khan-568b181b5/"><img src="https://img.shields.io/badge/-Malik%20Huzafah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
