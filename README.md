@@ -61,7 +61,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 <a href="https://github.com/malikhuzafah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=malikhuzafah&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikhuzafah&layout=compact&theme=gotham&langs_count=8"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikhuzafah&layout=compact&theme=gotham&langs_count=8"/> -->
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=malikhuzafah&theme=gotham" />
 </a>
 </div>
